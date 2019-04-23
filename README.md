@@ -1,5 +1,6 @@
 # DS_LAB1_2019S
 Data Stewardship Exercise 1 - Experiment with open data from data.gv.at and data.europa.eu
+DOI 10.17605/OSF.IO/RCMZG
 
 The data is collected from governmental sources:
 
@@ -25,8 +26,8 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly.tools as tls
 
-To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded from the official sources.
+To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded from the official sources (This is also provided in the files of the reposotory).
 
 You can run all the cells at once or go step by step in the notebook.
 
-The output data is generated directelly in the notebook, if you want to download it this is possible using the options right on top of every graphic embedded in the plotly frame.
+The output data is generated directelly in the notebook, if you want to download it this is possible using the options right on top of every graphic embedded in the plotly frame. You can also find the outputs in this repository or with the DOI 10.17605/OSF.IO/D3ZG5
