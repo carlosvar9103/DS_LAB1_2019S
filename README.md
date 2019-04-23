@@ -26,7 +26,7 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly.tools as tls
 
-To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded from the official sources (This is also provided in the files of the reposotory).
+To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded from the official sources (This is also provided in the files of the reposotory) IN FORMAT CSV, so it might be uncompressed if it is the case.
 
 You can run all the cells at once or go step by step in the notebook.
 
