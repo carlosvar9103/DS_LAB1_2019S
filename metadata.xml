@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<title> Analysis with the data of Residence Population and foreign European Erasmus Students in Vienna in 2012 by Country of Origin </title>
+<creator> Carlos Alberto Vargas Rivera (https://orcid.org/0000-0002-1757-3249)</creator>
+<subject>Residence Population and foreign European Erasmus Students in Vienna</subject>
+<description> This experiment shows the distribution of age and gender of the habitants and the European Erasmus
+students coming to the City of Vienna in Austria regarding the Country of Origin in the year 2012.
+In addition, other features were analysed related with the Erasmus students coming to Vienna in 2012
+such as the number of credits that they enrol in the semester and the amount of money that the
+receive as a grant. </description>
+<date>22.04.2019</date>
+<type>Data Generation</type>
+<format> Jupyter Notebook (Python 3.0) </format>
+<source> Catalog Population according to foreign origin since 2011 Vienna </source>
+<source> Raw data of Erasmus student mobility (study exchanges and work placements in 2012-13) </source>
+<language> English </language>
+<coverage> 2012 </coverage>
+<rights> Free Access </rights> 
+</metadata>
