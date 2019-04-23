@@ -15,7 +15,17 @@ URL: http://data.europa.eu/euodp/data/uploads/EAC/SM_2012_13_20141103_01.csv
 
 The experiment runs in a Jupyter notebook using python version 3.7.
 
-To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded.
+Important thing is to install the packeges:
+
+import csv
+import numpy as np
+import pandas as pd
+import plotly
+import plotly.plotly as py
+import plotly.graph_objs as go
+import plotly.tools as tls
+
+To run it is necessary to upload the input data in a folder named "data" with the same names as downloaded from the official sources.
 
 You can run all the cells at once or go step by step in the notebook.
 
